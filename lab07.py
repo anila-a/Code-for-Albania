@@ -1,5 +1,5 @@
 '''
-Last date modified: 05/25/2020
+Last date modified: 04/25/2020
 
 Provide the implementation of the GeometricShape class with two attributes: color and filled. 
 Set color = ‘black’ and filled = False as default. Write the getter and setter methods for each attribute.
