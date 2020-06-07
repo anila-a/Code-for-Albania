@@ -79,7 +79,7 @@ class Circle(GeometricShape):
 class Square(Rectangle):
   pass
 
-# Main function
+# Main method
 
 r = Rectangle(10.5, 12.5)
 
