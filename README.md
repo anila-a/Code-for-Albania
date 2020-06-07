@@ -1,5 +1,5 @@
 # Code for Albania
 
-Laboratory exercises for CFA sessions.
+Laboratory exercises prepared for CFA sessions.
 
 2020
