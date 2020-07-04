@@ -1,0 +1,55 @@
+/* Card */
+.card {
+  box-shadow: 0 4px 8px 0 grey;
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: "Georgia";
+}
+
+/* Title */
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+/* Button */
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 15px;
+  color: black;
+  background-color: #87ceeb;
+  text-align: center;
+  cursor: pointer;
+  font-family: "Georgia";
+  font-size: 18px;
+  width: 100%;
+}
+
+/* Font Awesome Web Application Icons */
+.fa {
+  padding: 20px;
+  font-size: 20px;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
